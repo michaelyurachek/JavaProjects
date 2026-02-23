@@ -1,3 +1,31 @@
-# The Understanding Of Java
+# My Java Pathway
 
-This repository is a collection of notes and resources for understanding Java programming language. It covers various topics such as Java basics, object-oriented programming, data structures, algorithms, and more. The goal is to provide a comprehensive guide for beginners and intermediate learners to grasp the concepts of Java effectively.
+```
+A repository made to hold and show off my Java projects from college.  These projects helped me learn and understand the core skills needed to use Java.
+```
+
+### Table of Contents:
+
+- **[The Basics Of Java](/TheBasics/Assignment1.java)** - A basic introduction of Java syntax.
+
+- **[Looping 101](/Looping101/Assignment2.java)** - Learning the in and outs of while and for loops.  
+
+- **[The Basics Of Java](/GPA-Calculator/Student.java)** - First project using methods and method validation. 
+
+---
+
+### Repository Information
+
+> **Version:** - 0.2.0
+>
+> **Author:** - Michael Yurachek
+>
+> **Description** - How I learned Java from my CSC class
+
+---
+
+### Repo Clone
+
+```bash
+git clone https://github.com/michaelyurachek/JavaProjects.git
+```
