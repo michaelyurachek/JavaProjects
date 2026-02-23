@@ -8,13 +8,13 @@
 
 - **[Looping 101](/Looping101/Assignment2.java)** - Learning the in and outs of while and for loops.  
 
-- **[The Basics Of Java](/GPA-Calculator/Student.java)** - First project using methods and method validation. 
+- **[GPA Calculator](/GPA-Calculator/Student.java)** - First project using methods and method validation. 
 
 ---
 
 ### Repository Information
 
-> **Version:** - 0.2.1
+> **Version:** - 0.2.2
 >
 > **Author:** - Michael Yurachek
 >
