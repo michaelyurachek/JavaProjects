@@ -1,8 +1,6 @@
 # My Java Pathway
 
-```
-A repository made to hold and show off my Java projects from college.  These projects helped me learn and understand the core skills needed to use Java.
-```
+> A repository made to hold and show off my Java projects from college.  These projects helped me learn and understand the core skills needed to use Java.
 
 ### Table of Contents:
 
@@ -16,7 +14,7 @@ A repository made to hold and show off my Java projects from college.  These pro
 
 ### Repository Information
 
-> **Version:** - 0.2.0
+> **Version:** - 0.2.1
 >
 > **Author:** - Michael Yurachek
 >
