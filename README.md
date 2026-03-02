@@ -4,17 +4,19 @@
 
 ### Table of Contents:
 
-- **[The Basics Of Java](/TheBasics/Assignment1.java)** - A basic introduction of Java syntax.
+- 1) **[The Basics Of Java](/TheBasics/Assignment1.java)** - A basic introduction of Java syntax.
 
-- **[Looping 101](/Looping101/Assignment2.java)** - Learning the in and outs of while and for loops.  
+- 2) **[Looping 101](/Looping101/Assignment2.java)** - Learning the in and outs of while and for loops.  
 
-- **[GPA Calculator](/GPA-Calculator/Student.java)** - First project using methods and method validation. 
+- 3) **[GPA Calculator](/GPA-Calculator/Student.java)** - First project using methods and method validation. 
+
+- 4) **[Task Organizer](/TaskOrganizer/)** - A project to learn about inheritance and using multi-file structure. 
 
 ---
 
 ### Repository Information
 
-> **Version:** - 0.2.2
+> **Version:** - 0.3.2
 >
 > **Author:** - Michael Yurachek
 >
