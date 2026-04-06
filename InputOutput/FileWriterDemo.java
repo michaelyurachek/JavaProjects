@@ -6,7 +6,7 @@ public class FileWriterDemo {
     // Method to write content to a file
     public static void writeToFile(String filename, String content) {
         try {
-            FileWriter writer = new FileWriter(filename);
+            FileWriter writer = new FileWriter(filename, java.nio.charset.StandardCharsets.UTF_8);
             writer.write(content);
             writer.close();
             System.out.println("Content written to file successfully.");
