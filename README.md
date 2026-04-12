@@ -16,11 +16,13 @@
 
 - 6) **[Unit Testing](/Java%20Unit%20Testing/Main.java)**
 
+- 7) **[Exception Handling](/ExceptionHandling/)**
+
 ---
 
 ### Repository Information
 
-> **Version:** - 0.4.0
+> **Version:** - 0.5.0
 >
 > **Author:** - Michael Yurachek
 >
